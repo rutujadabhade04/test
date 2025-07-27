@@ -44,7 +44,7 @@ export default function HeroAnimation({ NAV_HEIGHT }) {
       }}
     >
       <motion.img
-        src="/public/images/cute_chat.jpeg"
+        src="/test/images/cute_chat.jpeg"
         alt="img"
         style={{
           width: "100%",
